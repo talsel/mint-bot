@@ -38,6 +38,10 @@ Afterwards, you can start the bot by running:
 ```
 node src/bot.js
 ```
+If you would like to keep the bot online 24/7, you can run:
+```
+pm2 start src/bot.js
+```
 
 ## Issues
 

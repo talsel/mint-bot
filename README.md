@@ -1,7 +1,6 @@
-<br />
 <div align="center">
 	<p>
-		<a href="https://discord.js.org"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30665099/327941614-4775aa5b-0dfb-4770-9c13-9d21aee4df3e.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240504T103004Z&X-Amz-Expires=300&X-Amz-Signature=4cbbc1cd941a9d22978f2883dcc985a267d4c4b4e407f789ec0e034cbffa4450&X-Amz-SignedHeaders=host&actor_id=30665099&key_id=0&repo_id=192153672" width="250" alt="discord.js" /></a>
+		<a href="https://github.com/alextalsel/mint-bot"><img src="https://github.com/alextalsel/mint-bot/assets/30665099/89646ba9-8379-4934-81ac-d4dc2f17114f" width="250" alt="discord.js" /></a>
 	</p>
 <p>
 <a href="https://github.com/nodejs/node/releases/tag/v20.12.2"><img alt="Static Badge" src="https://img.shields.io/badge/node.js-v20.12.2-%23417E38?logo=nodedotjs">

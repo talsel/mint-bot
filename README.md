@@ -1,15 +1,13 @@
 <div align="center">
-	<p>
-		<a href="https://github.com/alextalsel/mint-bot"><img src="https://github.com/alextalsel/mint-bot/assets/30665099/89646ba9-8379-4934-81ac-d4dc2f17114f" width="250" alt="discord.js" /></a>
-	</p>
+
+# mint-bot
+
 <p>
 <a href="https://github.com/nodejs/node/releases/tag/v20.12.2"><img alt="Static Badge" src="https://img.shields.io/badge/node.js-v20.12.2-%23417E38?logo=nodedotjs">
 <a href="https://www.npmjs.com/package/npm/v/10.7.0"><img alt="Static Badge" src="https://img.shields.io/badge/npm-v10.7.0-%23CB0000?logo=npm">
 <a href="https://www.npmjs.com/package/discord.js/v/14.14.1"><img src="https://img.shields.io/badge/discord.js-v14.14.1-%235865F2?logo=discord" alt="discord.js version" /></a>
 <img src="https://img.shields.io/badge/License-MIT-%23750014" alt="MIT License" /></a>
 </p>
-
-# mint-bot
 
 A discord bot that I programmed 2019-2023 with functions such as music-playing, economy, statistics and quotes/photos of the day. It isn't much, just a mess around with node.js and the various npm packages that are available. In doing so, I've made some commands that can be quite entertaining at times especially with friends and acquired extensive knowledge about different JavaScript tools and hosting server processes. I no longer regularly maintain this bot, therefore I have published it here as a template/tutorial tool.
 

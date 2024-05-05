@@ -1,5 +1,3 @@
-<div align="center">
-
 # mint-bot
 
 <p>
@@ -11,7 +9,6 @@
 
 A discord bot that I programmed 2019-2023 with functions such as music-playing, economy, statistics and quotes/photos of the day. It isn't much, just a mess around with node.js and the various npm packages that are available. In doing so, I've made some commands that can be quite entertaining at times especially with friends and acquired extensive knowledge about different JavaScript tools and hosting server processes. I no longer regularly maintain this bot, therefore I have published it here as a template/tutorial tool.
 
-</div>
 
 ## Prerequisites
 

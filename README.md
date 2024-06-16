@@ -2,8 +2,8 @@
 
 <p>
 <a href="https://github.com/nodejs/node/releases/tag/v20.12.2"><img alt="Static Badge" src="https://img.shields.io/badge/node.js-v20.12.2-%23417E38?logo=nodedotjs">
-<a href="https://www.npmjs.com/package/npm/v/10.7.0"><img alt="Static Badge" src="https://img.shields.io/badge/npm-v10.7.0-%23CB0000?logo=npm">
-<a href="https://www.npmjs.com/package/discord.js/v/14.14.1"><img src="https://img.shields.io/badge/discord.js-v14.14.1-%235865F2?logo=discord" alt="discord.js version" /></a>
+<a href="https://www.npmjs.com/package/npm/v/10.8.1"><img alt="Static Badge" src="https://img.shields.io/badge/npm-v10.8.1-%23CB0000?logo=npm">
+<a href="https://www.npmjs.com/package/discord.js/v/14.15.3"><img src="https://img.shields.io/badge/discord.js-v14.15.3-%235865F2?logo=discord" alt="discord.js version" /></a>
 <img src="https://img.shields.io/badge/License-MIT-%23750014" alt="MIT License" /></a>
 </p>
 

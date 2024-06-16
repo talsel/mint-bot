@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/License-MIT-%23750014" alt="MIT License" /></a>
 </p>
 
-A discord bot that I programmed 2019-2023 with functions such as music-playing, economy, statistics and quotes/photos of the day. It isn't much, just a mess around with node.js and the various npm packages that are available. In doing so, I've made some commands that can be quite entertaining at times especially with friends and acquired extensive knowledge about different JavaScript tools and hosting server processes. I no longer regularly maintain this bot, therefore I have published it here as a template/tutorial tool.
+A discord bot that I programmed 2019-2023 with functions such as music-playing, economy, statistics and quotes/photos of the day. I no longer regularly maintain this bot, therefore I have published it here as a template tool.
 
 
 ## Prerequisites
@@ -27,7 +27,7 @@ git clone https://github.com/alextalsel/mint-bot.git
 ```
 Change directory to /mint-bot and add required tokens in `.env` file from pre-requisites then run:
 ```
-npm install @discordjs/opus@^0.9.0 @discordjs/rest@^2.2.0 @distube/spotify@^1.6.1 @distube/ytsr@^2.0.0 chalk@^4.1.2 cpu-stat@^2.0.1 discord-api-types@^0.37.58 discord.js@^14.14.1 distube@^4.1.1 dotenv@^16.3.1 ffmpeg-static-fork@^5.2.0 formidable@^3.5.1 fs@^0.0.1-security libsodium-wrappers@^0.7.13 mongoose@^7.6.0 opusscript@^0.0.8 os@^0.1.2 readable-stream@^4.5.2 sodium-native@^4.1.1 superagent@^8.1.2 weather-js@^2.0.0 yt-search@^2.10.4 ytdl-core@^4.11.5
+npm install
 ```
 Afterwards, you can start the bot by running:
 ```

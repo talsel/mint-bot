@@ -23,7 +23,7 @@ A discord bot that I programmed 2019-2023 with functions such as music-playing, 
 ### Installing via NPM
 Clone the mint-bot repository by running:
 ```
-git clone https://github.com/alextalsel/mint-bot.git
+git clone https://github.com/talsel/mint-bot.git
 ```
 Change directory to /mint-bot and add required tokens in `.env` file from pre-requisites then run:
 ```

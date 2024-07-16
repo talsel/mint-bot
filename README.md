@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/License-MIT-%23750014" alt="MIT License" /></a>
 </p>
 
-A discord bot that I programmed 2019-2023 with functions such as music-playing, economy, statistics and quotes/photos of the day. I no longer regularly maintain this bot, therefore I have published it here as a template tool.
+A discord bot with functions such as music-playing, economy, statistics and quotes/photos of the day. I no longer regularly maintain this bot, therefore I have published it here as a template tool.
 
 
 ## Prerequisites

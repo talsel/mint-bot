@@ -25,7 +25,7 @@ Clone the mint-bot repository by running:
 ```
 git clone https://github.com/talsel/mint-bot.git
 ```
-Change directory to /mint-bot and add required tokens in `.env` file from pre-requisites then run:
+Change directory to /mint-bot and add required tokens in the `.env` file from pre-requisites then run:
 ```
 npm install
 ```

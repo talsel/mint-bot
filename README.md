@@ -12,11 +12,11 @@ A discord bot with functions such as music-playing, economy, statistics and quot
 
 ## Prerequisites
 
-* Node.js v18+ `to run the bot process` from [Node.js](https://nodejs.org/en/download)
-* Mongo Database URL `to run the economy commands` from [MongoDB](https://cloud.mongodb.com/)
-* Discord Client ID `to refresh (/) commands with REST API` from [Discord Developer Portal](https://discord.com/developers/applications)
-* Discord Bot Token `to log in to bot` from [Discord Developer Portal](https://discord.com/developers/applications)
-* Process Manager 2 `to keep the bot online` from [Keymetrics](https://pm2.keymetrics.io/)
+* Node.js v18+ `to run the bot process` from [Node.js](https://nodejs.org/en/download).
+* Mongo Database URL `to run the economy commands` from [MongoDB](https://cloud.mongodb.com/).
+* Discord Client ID `to refresh (/) commands with REST API` from [Discord Developer Portal](https://discord.com/developers/applications).
+* Discord Bot Token `to log in to bot` from [Discord Developer Portal](https://discord.com/developers/applications).
+* Process Manager 2 `to keep the bot online` from [Keymetrics](https://pm2.keymetrics.io/).
 
 ## Installation
 

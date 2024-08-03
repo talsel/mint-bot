@@ -25,7 +25,7 @@
     "dotenv": "^16.3.1",
     "ffmpeg-static-fork": "^5.2.0",
     "formidable": "^3.5.1",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "libsodium-wrappers": "^0.7.13",
     "mongoose": "^7.6.0",
     "opusscript": "^0.0.8",

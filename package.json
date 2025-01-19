@@ -27,7 +27,7 @@
     "formidable": "^3.5.1",
     "fs": "^0.0.1-security",
     "libsodium-wrappers": "^0.7.13",
-    "mongoose": "^7.6.0",
+    "mongoose": "^8.8.3",
     "opusscript": "^0.1.1",
     "os": "^0.1.2",
     "readable-stream": "^4.5.2",

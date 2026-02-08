@@ -26,7 +26,7 @@
     "ffmpeg-static-fork": "^5.2.0",
     "formidable": "^3.5.1",
     "fs": "^0.0.1-security",
-    "libsodium-wrappers": "^0.7.13",
+    "libsodium-wrappers": "^0.8.1",
     "mongoose": "^7.6.0",
     "opusscript": "^0.1.1",
     "os": "^0.1.2",
